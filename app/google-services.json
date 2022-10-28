@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "107155786603",
+    "project_id": "messenger-225a1",
+    "storage_bucket": "messenger-225a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107155786603:android:0ecb6198161b31ce11da2e",
+        "android_client_info": {
+          "package_name": "com.ilya.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107155786603-dj1b6nroa6qpruv70rh4ns0lh66lr3f9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ5be01xrlhEhBkmI_Ok43vuD_IM9s0jU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107155786603-dj1b6nroa6qpruv70rh4ns0lh66lr3f9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
